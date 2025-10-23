@@ -18,5 +18,4 @@ It demonstrates proficiency with **Unity’s physics engine** by creating a **ch
 6. **Asset Store support:** Includes textures and models sourced from the **Unity Asset Store** (ground, walls, and chicken texture).  
 
 ## Video ▶️ 
-▶ [Demo Preview]
-(https://drive.google.com/file/d/14d5R7CEa4_hyGXzD9z_khhYUMzMTa8u-/preview)  
+▶ [Demo 2 Preview](https://drive.google.com/file/d/14d5R7CEa4_hyGXzD9z_khhYUMzMTa8u-/preview)  
